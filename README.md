@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |TAMILSELVI S | **Reg. No.:** |26016264 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |19-11-2026| **Batch / Section:** |26ODJ166 |
 
 ---
 
@@ -56,7 +56,8 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
+<img width="1280" height="448" alt="diagram 1" src="https://github.com/user-attachments/assets/da935e95-499b-4e71-9f29-d3f22718701e" />
+<img width="1280" height="449" alt="diagram 2" src="https://github.com/user-attachments/assets/6179b982-c863-4543-a4ba-de4d3484f7c3" />
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
@@ -114,13 +115,13 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
+<img width="1280" height="1094" alt="graph 1" src="https://github.com/user-attachments/assets/600dedd3-2d6b-4fba-8b21-f07f18052642" />
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
+<img width="1280" height="1274" alt="graph 2" src="https://github.com/user-attachments/assets/0202bb26-c5f9-4c2e-934d-702c80dbb07e" />
 
 **Figure 5:** Load characteristics
 
